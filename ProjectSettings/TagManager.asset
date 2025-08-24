@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UIPanelToToggle
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Grass
+  - Struct
+  - 
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Ui_c
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grass
+    uniqueID: 182876515
+    locked: 0
+  - name: Struct
+    uniqueID: 29153163
+    locked: 0
+  - name: Plant
+    uniqueID: 267234763
+    locked: 0
+  - name: Enemy
+    uniqueID: 2192022875
+    locked: 0
+  - name: Player
+    uniqueID: 2286118113
+    locked: 0
