@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfe84a6c40c7be948aeb1abbc8e85131, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  classSkills:
+  - {fileID: 11400000, guid: 67f54e96aac6b1540bdf250dd4bf7079, type: 2}
+  classType: 0
+  baseStats:
+    maxHP: 200
+    maxMana: 80
+    PHI: 10
+    MAG: -10
+    ARP: 10
+    ARM: 10
+    CRITR: 10
+    CRITD: 100
+    DEF: 0
+    ATK: 0
+    HP: 100
+    Mana: 100
+    moveSpeed: 8
+  description: 
+  previewSprite: {fileID: -1945783628, guid: e2bd52967b36f5d44ad6b6d3305011f1, type: 3}
+  animatorOverride: {fileID: 22100000, guid: dbfc24672dc3a6e499c3a247d7256fe2, type: 2}
+  damageType: 0
+  attackType: 0
+  projectilePrefab: {fileID: 0}
+  attackRange: 1

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfe84a6c40c7be948aeb1abbc8e85131, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  classSkills:
+  - {fileID: 11400000, guid: 67f54e96aac6b1540bdf250dd4bf7079, type: 2}
+  classType: 2
+  baseStats:
+    maxHP: 100
+    maxMana: 100
+    PHI: 20
+    MAG: -10
+    ARP: 5
+    ARM: 5
+    CRITR: 20
+    CRITD: 110
+    DEF: 0
+    ATK: 2
+    HP: 90
+    Mana: 100
+    moveSpeed: 8
+  description: 
+  previewSprite: {fileID: -1503402043, guid: 8e9f844d27266c94f82aa2b6bac9c066, type: 3}
+  animatorOverride: {fileID: 9100000, guid: b15522913497b814b9e5daef32eccdc4, type: 2}
+  damageType: 0
+  attackType: 1
+  projectilePrefab: {fileID: 608858058312104835, guid: 63d76caca0450884894e6ae27f4b7918, type: 3}
+  attackRange: 5

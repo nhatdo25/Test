@@ -1,0 +1,1438 @@
+fileFormatVersion: 2
+guid: e2bd52967b36f5d44ad6b6d3305011f1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 710
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6cfcee54298d2419a07b239babd57b
+      internalID: -1945783628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 710
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0804df93c0e66b409f4b2b53073ec6b
+      internalID: -1021352134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 710
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254f30fdce3309748965432769a56ce7
+      internalID: 344826632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 710
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782e0e171d8f2fa49bf39786d4db7921
+      internalID: -1235618126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 710
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3900d18d335f954185b3410a753261b
+      internalID: 1777400886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 710
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3271efe7fe84946acf1f0bc7bfa65a
+      internalID: 1951920056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 614
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf04bc2c6a5d484b8a3aadc64143be9
+      internalID: -552528649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 615
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6124e8a0f90c4ce4d8475b68d19aec1d
+      internalID: -1022767203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 615
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01fdaeb5e2b2e94198d523e5836ec82
+      internalID: -75726996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 615
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecec43e2bf8df694396f3f1391bea3b0
+      internalID: 114622955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 615
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399987513dee06146b5b6179a4a63459
+      internalID: -1715688016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 615
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757b727ce3d364b4081653871170e3a8
+      internalID: -703973364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 615
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151f0f563c9aabd409b66cae996e8e81
+      internalID: -1911133497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 615
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a965c98ac18cee74bb0bdf064ab26da3
+      internalID: -502591667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 518
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51e658d08079ab43813ff3cd48e7d84
+      internalID: -2128950658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 518
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb37e39406e2804fae67e9b70341d41
+      internalID: 787025497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 519
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4477ff2ec83cf949a4246700ad1fc9e
+      internalID: -572336758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 521
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60adc1ad67b19f47a2d06ce8b112c65
+      internalID: 1093679649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 522
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72ceb2b862d15459a996eff0a00a82
+      internalID: -483098826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 520
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdc23df0c1959d4a88e35c557abcd07
+      internalID: 807165985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 422
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b040875b3c05d384c9becbd8c1521c6a
+      internalID: -540986660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 422
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add35b2ba88e9df47b14d2d2e598ea40
+      internalID: -170080483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 423
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c653f09aed0f644907c2544e560443
+      internalID: 882894645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 423
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6642e5c077da5294196af1ceebf24d51
+      internalID: 266341178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 422
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b56b9453b0124b44b241c81ee7c876e
+      internalID: 1366517556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 423
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b37a31de81f2542a1875745e525ac6
+      internalID: -1966656406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 326
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb6f5cff99a895428c06274d9349ab4
+      internalID: -1518195585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 326
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad426d21f3855043865af02883e643b
+      internalID: 1290533746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 326
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a86e22793b7e4e8d28b01a1d87cfd
+      internalID: 537361029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 326
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25507f57b5da27449842030f9f4ec207
+      internalID: -828807203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 326
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d4d626b0dddd24483c5c2740ef9e35
+      internalID: 1063561470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 324
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee21937979a43e48b65b97508f5b9f5
+      internalID: -92371002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 324
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ded74551b9fa9e4283e7d7209d31ae6
+      internalID: 1138014284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 324
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055bfc9637988494493efef244e17c38
+      internalID: -1181102797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 230
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478dd91e2d73b4b41ae43562309c1618
+      internalID: -1710185456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 230
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea45e34bf23673a40ae38e63745e0898
+      internalID: -672678650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 229
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344328fa4455bfe4499c022ea179ef23
+      internalID: 294983853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 231
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01f3516695653b4a83737a00b34694a
+      internalID: -273771947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 231
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c15f628d9aa3864c8bab3417a6e5a8a
+      internalID: 279770390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 232
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cfae18fb268354b925a0291cac0d2a
+      internalID: -527470672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 230
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5213e81b2170cf7479e6773408d33833
+      internalID: -2027009216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 228
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0963d45aaa5f434b8e39562c634b96a
+      internalID: 495187408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 228
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57039bf7b94cb4c9b9ce721087c8bb
+      internalID: -2038470996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 134
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271bd4360ab2fd84f9379c090c526dfe
+      internalID: -44519271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 135
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8287f05dd67c4a428fa65d598d6c9a7
+      internalID: 1433626557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 135
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8659493a8b22027458f669b72bb03469
+      internalID: -844346365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 135
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32db3aba285b2444b96a657198ae11b
+      internalID: 1636154070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 39
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb7e57d152f6bd4aa69ed8712906520
+      internalID: 200230437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 39
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd23a617a6749974282f359ca55fd937
+      internalID: 1919419846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 39
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d2557608459d74b8906155b0202bbc
+      internalID: 1430386987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 39
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d480b9759fe299249a1c27fbd2c56401
+      internalID: 1054729992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 39
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8fc1f396d82c84a8aac62825830c65
+      internalID: -276157214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 39
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacfd91d15bb1384a9ee6762d565b341
+      internalID: 363305780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 39
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe47f0fb0487d74cb8de9d5de0385c3
+      internalID: -1517259894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 39
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c033016eaf82f9148a68d7eb6dc8fe57
+      internalID: -613444584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 39
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7fb6fadbe954a47bb58e548fd375c6
+      internalID: -1064820344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 39
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcebddbdb57c9a4b89f448f7cd16e6f
+      internalID: -144328482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 39
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418cc075f1079784d9e63c63eadcd3e6
+      internalID: -981568012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Soldier_Sword_Shield-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 39
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936ca44e621c8ed4289dec5ffd47d0b8
+      internalID: 732032894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Human_Soldier_Sword_Shield-Sheet_0: -1945783628
+      Human_Soldier_Sword_Shield-Sheet_1: -1021352134
+      Human_Soldier_Sword_Shield-Sheet_10: -1715688016
+      Human_Soldier_Sword_Shield-Sheet_11: -703973364
+      Human_Soldier_Sword_Shield-Sheet_12: -1911133497
+      Human_Soldier_Sword_Shield-Sheet_13: -502591667
+      Human_Soldier_Sword_Shield-Sheet_14: -2128950658
+      Human_Soldier_Sword_Shield-Sheet_15: 787025497
+      Human_Soldier_Sword_Shield-Sheet_16: -572336758
+      Human_Soldier_Sword_Shield-Sheet_17: 1093679649
+      Human_Soldier_Sword_Shield-Sheet_18: -483098826
+      Human_Soldier_Sword_Shield-Sheet_19: 807165985
+      Human_Soldier_Sword_Shield-Sheet_2: 344826632
+      Human_Soldier_Sword_Shield-Sheet_20: -540986660
+      Human_Soldier_Sword_Shield-Sheet_21: -170080483
+      Human_Soldier_Sword_Shield-Sheet_22: 882894645
+      Human_Soldier_Sword_Shield-Sheet_23: 266341178
+      Human_Soldier_Sword_Shield-Sheet_24: 1366517556
+      Human_Soldier_Sword_Shield-Sheet_25: -1966656406
+      Human_Soldier_Sword_Shield-Sheet_26: -1518195585
+      Human_Soldier_Sword_Shield-Sheet_27: 1290533746
+      Human_Soldier_Sword_Shield-Sheet_28: 537361029
+      Human_Soldier_Sword_Shield-Sheet_29: -828807203
+      Human_Soldier_Sword_Shield-Sheet_3: -1235618126
+      Human_Soldier_Sword_Shield-Sheet_30: 1063561470
+      Human_Soldier_Sword_Shield-Sheet_31: -92371002
+      Human_Soldier_Sword_Shield-Sheet_32: 1138014284
+      Human_Soldier_Sword_Shield-Sheet_33: -1181102797
+      Human_Soldier_Sword_Shield-Sheet_34: -1710185456
+      Human_Soldier_Sword_Shield-Sheet_35: -672678650
+      Human_Soldier_Sword_Shield-Sheet_36: 294983853
+      Human_Soldier_Sword_Shield-Sheet_37: -273771947
+      Human_Soldier_Sword_Shield-Sheet_38: 279770390
+      Human_Soldier_Sword_Shield-Sheet_39: -527470672
+      Human_Soldier_Sword_Shield-Sheet_4: 1777400886
+      Human_Soldier_Sword_Shield-Sheet_40: -2027009216
+      Human_Soldier_Sword_Shield-Sheet_41: 495187408
+      Human_Soldier_Sword_Shield-Sheet_42: -2038470996
+      Human_Soldier_Sword_Shield-Sheet_43: -44519271
+      Human_Soldier_Sword_Shield-Sheet_44: 1433626557
+      Human_Soldier_Sword_Shield-Sheet_45: -844346365
+      Human_Soldier_Sword_Shield-Sheet_46: 1636154070
+      Human_Soldier_Sword_Shield-Sheet_47: 200230437
+      Human_Soldier_Sword_Shield-Sheet_48: 1919419846
+      Human_Soldier_Sword_Shield-Sheet_49: 1430386987
+      Human_Soldier_Sword_Shield-Sheet_5: 1951920056
+      Human_Soldier_Sword_Shield-Sheet_50: 1054729992
+      Human_Soldier_Sword_Shield-Sheet_51: -276157214
+      Human_Soldier_Sword_Shield-Sheet_52: 363305780
+      Human_Soldier_Sword_Shield-Sheet_53: -1517259894
+      Human_Soldier_Sword_Shield-Sheet_54: -613444584
+      Human_Soldier_Sword_Shield-Sheet_55: -1064820344
+      Human_Soldier_Sword_Shield-Sheet_56: -144328482
+      Human_Soldier_Sword_Shield-Sheet_57: -981568012
+      Human_Soldier_Sword_Shield-Sheet_58: 732032894
+      Human_Soldier_Sword_Shield-Sheet_6: -552528649
+      Human_Soldier_Sword_Shield-Sheet_7: -1022767203
+      Human_Soldier_Sword_Shield-Sheet_8: -75726996
+      Human_Soldier_Sword_Shield-Sheet_9: 114622955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

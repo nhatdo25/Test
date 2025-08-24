@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcb4c036152b4da488c69942ede05b6b, type: 3}
+  m_Name: Test_skill_dame_01
+  m_EditorClassIdentifier: 
+  skillName: TestskillDame01
+  description: Test skill dame MAG
+  icon: {fileID: -1215951138, guid: 84a387fc436be4b4baceac8a4fd8a950, type: 3}
+  skillType: 0
+  skillAnimation: {fileID: 7400000, guid: 07e5f30284ef33b42b18cec16304ce61, type: 2}
+  cooldown: 1
+  manaCost: 20
+  damageMultiplier: 1.5
+  damageType: 1
+  range: 3

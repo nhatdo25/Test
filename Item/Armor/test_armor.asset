@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a39136f19d383b8449228dc247e80af2, type: 3}
+  m_Name: test_armor
+  m_EditorClassIdentifier: 
+  itemName: a
+  itemID: test
+  description: 
+  icon: {fileID: 927448733, guid: a54f956ae44616e468e6dff82b723d11, type: 3}
+  itemType: 1
+  rarity: 0
+  isStackable: 0
+  maxStackSize: 99
+  value: 0
+  slot: 3
+  maxHP: 1010
+  maxMana: 1010
+  physicalArmor: 0
+  magicArmor: 0
+  physicalDamage: 10
+  magicDamage: 0
+  critRate: 90
+  critDamage: 100
+  defensePercent: 0
+  attackPercent: 0
